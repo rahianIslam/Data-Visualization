@@ -1,7 +1,7 @@
 # a2-numpy_pandas_vis
 Exploring Numpy, Pandas, and visualization with Matplotlib, Pandas and Seaborn
 
-Author: Yves Pauchard
+Author: Rahian Islam
 
 # Problem statement
 The goal of this assignment is to recreate the analysis of the chicken and eggs data set presented in this video:
@@ -26,7 +26,7 @@ If you get stuck with a visualization, please comment on what you are trying to 
 Verify that all work in sections A and B is added and pushed to github.
 
 # How to run this program
-_Add your instructions_
+Running the program is pretty easy. Everything is done you just have to press run.
 
 # Style guide
 ## Author
